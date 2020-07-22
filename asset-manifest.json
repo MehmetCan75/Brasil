@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Brasil/static/css/main.6655d760.chunk.css",
+    "main.css": "/Brasil/static/css/main.e50235eb.chunk.css",
     "main.js": "/Brasil/static/js/main.bf9d80a1.chunk.js",
     "main.js.map": "/Brasil/static/js/main.bf9d80a1.chunk.js.map",
     "runtime-main.js": "/Brasil/static/js/runtime-main.85217ba5.js",
@@ -8,9 +8,9 @@
     "static/js/2.64558d34.chunk.js": "/Brasil/static/js/2.64558d34.chunk.js",
     "static/js/2.64558d34.chunk.js.map": "/Brasil/static/js/2.64558d34.chunk.js.map",
     "index.html": "/Brasil/index.html",
-    "precache-manifest.5299cba23936a9343b2d9337b4550a91.js": "/Brasil/precache-manifest.5299cba23936a9343b2d9337b4550a91.js",
+    "precache-manifest.058596591f0ceb98edc83b6feb3c1f7d.js": "/Brasil/precache-manifest.058596591f0ceb98edc83b6feb3c1f7d.js",
     "service-worker.js": "/Brasil/service-worker.js",
-    "static/css/main.6655d760.chunk.css.map": "/Brasil/static/css/main.6655d760.chunk.css.map",
+    "static/css/main.e50235eb.chunk.css.map": "/Brasil/static/css/main.e50235eb.chunk.css.map",
     "static/js/2.64558d34.chunk.js.LICENSE.txt": "/Brasil/static/js/2.64558d34.chunk.js.LICENSE.txt",
     "static/media/Al1.jpg": "/Brasil/static/media/Al1.7c6a1a5b.jpg",
     "static/media/Al2.jpg": "/Brasil/static/media/Al2.3180a244.jpg",
@@ -43,7 +43,7 @@
   "entrypoints": [
     "static/js/runtime-main.85217ba5.js",
     "static/js/2.64558d34.chunk.js",
-    "static/css/main.6655d760.chunk.css",
+    "static/css/main.e50235eb.chunk.css",
     "static/js/main.bf9d80a1.chunk.js"
   ]
 }
